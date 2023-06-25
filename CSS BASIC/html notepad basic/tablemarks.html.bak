@@ -1,0 +1,116 @@
+<html>
+<head>
+<title>html-table</title>
+</head>
+<style>
+table,td{
+border:2px solid black;
+text-align:center;
+font-family:arial-black;
+font-size:35px;
+padding:10px
+margin:5px;
+}
+</style>
+<body>
+<h2><b>This is all about Tables in html</b> </h2>
+<table text-align="center">
+<caption><strong><fieldset>Student Details</fieldset></strong></caption>
+<thead>
+<tr>
+<th>Name</th>
+<th>Roll No</th>
+<th>class</th>
+<th>Percentage</th>
+<th>Remarks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Jennifer Lawrence</td>
+<td>2022</td>
+<td>15th</td>
+<td>99%</td>
+<td>outstanding</td>
+</tr>
+<tr>
+<td>The Rock</td>
+<td>2031</td>
+<td>15th</td>
+<td>91%</td>
+<td>outstanding</td>
+</tr>
+<tr>
+<td>Katrina Kaif</td>
+<td>2020</td>
+<td>15th</td>
+<td>90%</td>
+<td>Excellent</td>
+</tr>
+<tr>
+<td>John Cena</td>
+<td>2023</td>
+<td>15th</td>
+<td>90%</td>
+<td>Excellent</td>
+</tr>
+<tr>
+<td>Urvashi Rautela</td>
+<td>2025</td>
+<td>15th</td>
+<td>90%</td>
+<td>Excellent</td>
+</tr>
+<tr>
+<td>Anna Popplewell</td>
+<td>2021</td>
+<td>15th</td>
+<td>95%</td>
+<td>Excellent</td>
+</tr>
+<tr>
+<td>Triple H</td>
+<td>2026</td>
+<td>15th</td>
+<td>88%</td>
+<td>Excellent</td>
+</tr>
+<tr>
+<td>The Undertaker</td>
+<td>2024</td>
+<td>15th</td>
+<td>99%</td>
+<td>outstanding</td>
+</tr>
+<tr>
+<td>Goldberg</td>
+<td>2027</td>
+<td>12th</td>
+<td>80%</td>
+<td>Excellent</td>
+</tr>
+<tr>
+<td>Roman Reings</td>
+<td>2028</td>
+<td>12th</td>
+<td>80%</td>
+<td>Very Good</td>
+</tr>
+<tr>
+<td>Brock Lesnar</td>
+<td>2029</td>
+<td>12th</td>
+<td>85%</td>
+<td>Excellent</td>
+</tr>
+<tr>
+<td>Sierra Mccormick</td>
+<td>2030</td>
+<td>15th</td>
+<td>99%</td>
+<td>outstanding</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

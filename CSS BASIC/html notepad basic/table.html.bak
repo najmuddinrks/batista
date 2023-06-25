@@ -1,0 +1,436 @@
+<html>
+<head>
+<title>html-table</title>
+</head>
+<style>
+table,td{
+border:2px solid black;
+text-align:center;
+font-family:arial-black;
+font-size:35px;
+padding:10px
+margin:5px;
+}
+</style>
+<body>
+<h2><b>This is all about Tables in html</b> </h2>
+<table>
+<tr>
+ <td width="200" height="200" bgcolor="yellow"<p><strong> Jennifer Lawrence </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="yellow"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="yellow"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="yellow"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="yellow"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="yellow"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="yellow"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="yellow"<p><strong> Anna Popplewell </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="yellow"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="yellow"<p><strong> Brock Lesnar </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="yellow"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="yellow"<p><strong> The Rock </strong></p></td>
+  </tr>
+<tr>
+ <td width="200" height="200" bgcolor="pink"<p><strong> Jennifer Lawrence </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="pink"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="pink"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="pink"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="pink"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="pink"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="pink"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="pink"<p><strong> Anna Popplewell </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="pink"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="pink"<p><strong> Brock Lesnar </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="pink"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="pink"<p><strong> The Rock </strong></p></td>
+  </tr>
+  <tr>
+ <td width="200" height="200" bgcolor="red"<p><strong> Jennifer Lawrence </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="red"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="red"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="red"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="red"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="red"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="red"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="red"<p><strong> Anna Popplewell </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="red"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="red"<p><strong> Brock Lesnar </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="red"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="red"<p><strong> The Rock </strong></p></td>
+  </tr>
+   <tr>
+ <td width="200" height="200" bgcolor="green"<p><strong> Jennifer Lawrence </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="green"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="green"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="green"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="green"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="green"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="green"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="green"<p><strong> Anna Popplewell </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="green"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="green"<p><strong> Brock Lesnar </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="green"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="green"<p><strong> The Rock </strong></p></td>
+  </tr>
+  <tr>
+ <td width="200" height="200" bgcolor="blue"<p><strong> Jennifer Lawrence </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="blue"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="blue"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="blue"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="blue"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="blue"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="blue"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="blue"<p><strong> Anna Popplewell </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="blue"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="blue"<p><strong> Brock Lesnar </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="blue"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="blue"<p><strong> The Rock </strong></p></td>
+  </tr>
+  <tr>
+ <td width="200" height="200" bgcolor="orange"<p><strong> Jennifer Lawrence </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="orange"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="orange"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="orange"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="orange"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="orange"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="orange"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="orange"<p><strong> Anna Popplewell </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="orange"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="orange"<p><strong> Brock Lesnar </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="orange"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="orange"<p><strong> The Rock </strong></p></td>
+  </tr>
+  <tr>
+ <td width="200" height="200" bgcolor="#2bf2e2"<p><strong> Jennifer Lawrence </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#2bf2e2"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#2bf2e2"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#2bf2e2"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#2bf2e2"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#2bf2e2"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#2bf2e2"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#2bf2e2"<p><strong> Anna Popplewell </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="#2bf2e2"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#2bf2e2"<p><strong> Brock Lesnar </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#2bf2e2"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#2bf2e2"<p><strong> The Rock </strong></p></td>
+  </tr>
+  <tr>
+ <td width="200" height="200" bgcolor="brown"<p><strong> Jennifer Lawrence </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="brown"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="brown"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="brown"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="brown"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="brown"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="brown"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="brown"<p><strong> Anna Popplewell </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="brown"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="brown"<p><strong> Brock Lesnar </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="brown"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="brown"<p><strong> The Rock </strong></p></td>
+  </tr>
+  <tr>
+ <td width="200" height="200" bgcolor="gray"<p><strong> Jennifer Lawrence </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="gray"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="gray"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="gray"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="gray"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="gray"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="gray"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="gray"<p><strong> Anna Popplewell </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="gray"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="gray"<p><strong> Brock Lesnar </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="gray"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="gray"<p><strong> The Rock </strong></p></td>
+  </tr>
+  <tr>
+ <td width="200" height="200" bgcolor="purple"<p><strong> Jennifer Lawrence </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="purple"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="purple"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="purple"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="purple"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="purple"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="purple"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="purple"<p><strong> Anna Popplewell </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="purple"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="purple"<p><strong> Brock Lesnar </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="purple"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="purple"<p><strong> The Rock </strong></p></td>
+  </tr>
+  <tr>
+ <td width="200" height="200" bgcolor="#38fd53"<p><strong> Jennifer Lawrence </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#38fd53"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#38fd53"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#38fd53"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#38fd53"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#38fd53"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#38fd53"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#38fd53"<p><strong> Anna Popplewell </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="#38fd53"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#38fd53"<p><strong> Brock Lesnar </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#38fd53"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#38fd53"<p><strong> The Rock </strong></p></td>
+  </tr>
+  <tr>
+ <td width="200" height="200" bgcolor="#ffdc71"<p><strong> Jennifer Lawrence </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#ffdc71"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#ffdc71"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#ffdc71"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#ffdc71"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#ffdc71"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#ffdc71"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#ffdc71"<p><strong> Anna Popplewell </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="#ffdc71"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#ffdc71"<p><strong> Brock Lesnar </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#ffdc71"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#ffdc71"<p><strong> The Rock </strong></p></td>
+  </tr>
+  <tr>
+ <td width="200" height="200" bgcolor="#fd51c2"<p><strong> Jennifer Lawrence </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd51c2"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd51c2"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd51c2"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd51c2"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd51c2"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd51c2"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd51c2"<p><strong> Anna Popplewell </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="#fd51c2"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd51c2"<p><strong> Brock Lesnar </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd51c2"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd51c2"<p><strong> The Rock </strong></p></td>
+  </tr>
+  <tr>
+ <td width="200" height="200" bgcolor="#51b6fd"<p><strong> Jennifer Lawrence </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#51b6fd"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#51b6fd"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#51b6fd"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#51b6fd"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#51b6fd"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#51b6fd"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#51b6fd"<p><strong> Anna Popplewell </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="#51b6fd"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#51b6fd"<p><strong> Brock Lesnar </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#51b6fd"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#51b6fd"<p><strong> The Rock </strong></p></td>
+  </tr>
+  <tr>
+ <td width="200" height="200" bgcolor="#fd7a51"<p><strong> Jennifer Lawrence </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd7a51"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd7a51"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd7a51"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd7a51"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd7a51"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd7a51"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd7a51"<p><strong> Anna Popplewell </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="#fd7a51"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd7a51"<p><strong> Brock Lesnar </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd7a51"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#fd7a51"<p><strong> The Rock </strong></p></td>
+  </tr>
+  <tr>
+ <td width="200" height="200" bgcolor="#e0ff83"<p><strong> Jennifer Lawrence </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#e0ff83"<p><strong> John Cena </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#e0ff83"<p><strong> Triple H </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#e0ff83"<p><strong> Katrina Kaif </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#e0ff83"<p><strong> Urvashi Rautela </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#e0ff83"<p><strong> The Undertaker </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#e0ff83"<p><strong> Sierra Mccormick </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#e0ff83"<p><strong> Anna Popplewell </strong></p></td>
+ 
+ <td width="200" height="200" bgcolor="#e0ff83"<p><strong> Roman Reings </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#e0ff83"<p><strong> Brock Lesnar </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#e0ff83"<p><strong> Goldberg </strong></p></td>
+  
+ <td width="200" height="200" bgcolor="#e0ff83"<p><strong> The Rock </strong></p></td>
+  </tr>
+<tr>
+<td>john cena </td>
+<td>jennifer Lawrence </td>
+<td>Triple h </td>
+<td>Katrina Kaif </td>
+<td>The Undertaker </td>
+<td>Urvashi Rautela </td>
+<td>Roman Reings </td>
+<td>Sierra Mccormick </td>
+<td>Brock Lesnar </td>
+<td>Anna Popplewell </td>
+<td>Goldberg </td>
+<td>The Rock </td>
+</tr>
+
+
+</table>
+</body>
+</html>
